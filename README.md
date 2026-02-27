@@ -77,7 +77,7 @@ credit-risk-engine/
 ### Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/credit-risk-engine.git
+git clone https://github.com/shah-abir/credit-risk-engine.git
 cd credit-risk-engine
 
 # Install dependencies
