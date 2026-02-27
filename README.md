@@ -9,7 +9,7 @@ An interactive credit risk assessment tool powered by **XGBoost** with **SHAP-ba
 
 ## 🔗 Live Demo
 
-👉 **[Launch App on Streamlit Cloud](https://credit-risk-engine.streamlit.app)** *(update with your actual URL after deployment)*
+👉 https://credit-risk-engine-fpnuuevmfav5fgyuw96whv.streamlit.app/
 
 ## 📸 Screenshots
 
