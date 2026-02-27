@@ -1,0 +1,75 @@
+{
+  "n_samples": 10000,
+  "n_features": 17,
+  "default_rate": 0.0709,
+  "roc_auc": 0.7656839855061479,
+  "home_ownership_classes": [
+    "MORTGAGE",
+    "OTHER",
+    "OWN",
+    "RENT"
+  ],
+  "loan_purpose_classes": [
+    "car",
+    "credit_card",
+    "debt_consolidation",
+    "education",
+    "home_improvement",
+    "major_purchase",
+    "medical",
+    "other",
+    "small_business"
+  ],
+  "feature_ranges": {
+    "loan_amount": {
+      "min": 1000.0,
+      "max": 40000.0,
+      "mean": 16104.8379
+    },
+    "annual_income": {
+      "min": 15000.0,
+      "max": 300000.0,
+      "mean": 72046.2684
+    },
+    "interest_rate": {
+      "min": 5.0,
+      "max": 28.0,
+      "mean": 16.391969
+    },
+    "dti_ratio": {
+      "min": 0.0,
+      "max": 45.0,
+      "mean": 22.458549
+    },
+    "credit_score": {
+      "min": 442.0,
+      "max": 850.0,
+      "mean": 700.102
+    },
+    "employment_length": {
+      "min": 0.0,
+      "max": 10.0,
+      "mean": 5.5954
+    },
+    "num_open_accounts": {
+      "min": 1.0,
+      "max": 23.0,
+      "mean": 9.9977
+    },
+    "num_derogatory_records": {
+      "min": 0.0,
+      "max": 3.0,
+      "mean": 0.6391
+    },
+    "revolving_utilization": {
+      "min": 0.1,
+      "max": 88.6,
+      "mean": 28.605510000000002
+    },
+    "total_credit_lines": {
+      "min": 7.0,
+      "max": 44.0,
+      "mean": 22.075
+    }
+  }
+}
